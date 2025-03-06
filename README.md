@@ -68,3 +68,37 @@ Simular el modelado, el cual se observa en la imagen a continuación
 ### Paso 6
 Cambiar la vista de ejes  
 ![Figura de prueba](IMAGES/P77.png)
+##
+### Paso 7
+Agregar bloque "Revolute Joint" o Articulación rotaciona : Generan todas las articulaciones.  
+B=base  
+F=seguidor  
+Restricciones: solo permite hacer rotaciones con respecto al eje z
+![Figura de prueba](IMAGES/P8.png)
+Se puede configurar velocidad y posición inicial y algunas variables mas y mediciones
+![Figura de prueba](IMAGES/P9.png)
+##
+### Paso 8
+Observar simulación y ver la rotación del solido  
+![Figura de prueba](IMAGES/P10.png)
+##
+### Paso 9
+Observar simulación en el osciloscopio   
+![Figura de prueba](IMAGES/P11.png)
+##
+##
+### Paso 10
+Abrir interfaz data inspector
+![Figura de prueba](IMAGES/P12.png)
+##
+### Paso 11
+Cambiar parametros de paso fijo y configurar el tiempo
+![Figura de prueba](IMAGES/P13.png)
+##
+### Paso 12
+Abrir interfaz data inspector y observar el cambio de la gráfica con los nuevos parámetros
+![Figura de prueba](IMAGES/P14.png)
+##
+### Paso 13
+Comparar las señales de paso variable y paso fijo
+![Figura de prueba](IMAGES/P15.png)
