@@ -25,6 +25,8 @@ Para iniciar un nuevo proyecto, utilizar el comando:
 ```matlab
 >> smnew
 ```
+![Figura de prueba](IMAGES/P1.png)
+
 **1 bloque**  
 
 -Tolerancia  
