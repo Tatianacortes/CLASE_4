@@ -25,9 +25,9 @@ Para iniciar un nuevo proyecto, utilizar el comando:
 ```matlab
 >> smnew
 ```
-![Figura de prueba](IMAGES/P1.png)
+![Figura de prueba](IMAGES/PIN.png)
 
-**1 bloque**  
+**1 Bloque (solver configuration)**  
 
 -Tolerancia  
 -Estado transitorio o estacionario  
@@ -35,10 +35,36 @@ Para iniciar un nuevo proyecto, utilizar el comando:
 -Tiempo de muestreo  
 -etc  
 
-**2 bloque**  
+**2 Bloque (world frame)**  
 
 parámetros preestablecidos  
 
-**3 bloque leyes físicas**  
+**3 Bloque - leyes físicas (mechanism configuration)**  
 -Aceleración  
 -gravedad - eje z por facilidad se configura en el eje y  
+##
+### Paso 1
+
+Configurar la gravedad en el eje z  
+![Figura de prueba](IMAGES/P2.png)
+##
+### Paso 2
+Configurar el tamaño del solido    
+![Figura de prueba](IMAGES/P3.png)
+##
+### Paso 3
+Configurar el color y opacidad del solido   
+![Figura de prueba](IMAGES/P4.png)
+##
+### Paso 4
+Configurar el frame adicional, el cual posteriormente será usado en la rotación del solido  
+![Figura de prueba](IMAGES/P5.png)
+![Figura de prueba](IMAGES/P6.png)
+##
+### Paso 5
+Simular el modelado, el cual se observa en la imagen a continuación
+![Figura de prueba](IMAGES/P7.png)
+##
+### Paso 6
+Cambiar la vista de ejes  
+![Figura de prueba](IMAGES/P77.png)
