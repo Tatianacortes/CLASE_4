@@ -74,7 +74,7 @@ Agregar bloque "Revolute Joint" o Articulación rotaciona : Generan todas las ar
 B=base  
 F=seguidor  
 Restricciones: solo permite hacer rotaciones con respecto al eje z
-![Figura de prueba](IMAGES/P8.png)
+![Figura de prueba](IMAGES/P8.png)  
 Se puede configurar velocidad y posición inicial y algunas variables mas y mediciones
 ![Figura de prueba](IMAGES/P9.png)
 ##
